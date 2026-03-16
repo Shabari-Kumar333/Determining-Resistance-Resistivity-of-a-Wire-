@@ -1,0 +1,232 @@
+fileFormatVersion: 2
+guid: 0e1a942db9824d943b9e66a72382dc9a
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlugKey
+    second: {fileID: 2100000, guid: 85f485ee1c235664aa94259fd6bbffdc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Resistance Box_mini6
+    second: {fileID: 2100000, guid: 9fffb452e0ebba0429ce1367d6027137, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn1
+    second: {fileID: 2100000, guid: 585bde6e8cee4b844aca8b752a6df910, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 978b735c770d71d4f8f983bce7eb6dde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1.001
+    second: {fileID: 2100000, guid: 733ea5837d5c66b4c87397ffd9876c56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert3
+    second: {fileID: 2100000, guid: b36be254a6e73aa4083313aba9e07fdd, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Battery eliminator__BatteryEliminator_AlbedoTransparency
+    second: {fileID: 2800000, guid: f4f1d88e412e26e4b839071a89d098a4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Battery eliminator__BatteryEliminator_MetallicSmoothness
+    second: {fileID: 2800000, guid: 29b668bca30d7e34fbbdf9e1d48daf4a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Battery eliminator__BatteryEliminator_Normal
+    second: {fileID: 2800000, guid: d7691129aaf018f48af58f1574ce2f69, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Components_tex_Resistance Box_mini_MetallicSmoothness
+    second: {fileID: 2800000, guid: 794a8db8de6505746a8196a48b127259, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Components_tex_Resistance Box_mini_Normal
+    second: {fileID: 2800000, guid: 89dc15a4da5b71c40ae26ee9460bef1a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GALVANOMETER_4k_AlbedoTransparency.1001
+    second: {fileID: 2800000, guid: a411335b84320dd4b84e5fa2ee86b597, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GALVANOMETER_4k_MetallicSmoothness.1001
+    second: {fileID: 2800000, guid: 0fe36ed79a4561f43a8e2827add6964f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GALVANOMETER_4k_Normal.1001
+    second: {fileID: 2800000, guid: f179c403601158545a403068decf6d8e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plug_Key_PlugKey_AlbedoTransparency
+    second: {fileID: 2800000, guid: 8673229c56811c8498ebdd8b30d20612, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plug_Key_PlugKey_MetallicSmoothness
+    second: {fileID: 2800000, guid: 44d825590c51d4042925d6945fc2e841, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plug_Key_PlugKey_Normal
+    second: {fileID: 2800000, guid: 763365c99357ac44e99937849ae3d016, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ResistanceBox_mini_Resistance Box_mini_AlbedoTransparency
+    second: {fileID: 2800000, guid: 8386077f439b8d544a2ec8b65646453b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: meter bridge tabel_4k textures_AlbedoTransparency
+    second: {fileID: 2800000, guid: 881a4579d2774b54eb2882c6c38e6a74, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: meter bridge tabel_4k textures_MetallicSmoothness
+    second: {fileID: 2800000, guid: 54ac503875af99940bb4b6516886b304, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: meter bridge tabel_4k textures_Normal
+    second: {fileID: 2800000, guid: 6bb2afcae5df15c448b9b63759ed8516, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rheostat 3_lambert3_BaseColor
+    second: {fileID: 2800000, guid: 55489c2dc918be3449ce0625946856f7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rheostat 3_lambert3_Metallic
+    second: {fileID: 2800000, guid: 23c30fe31b773704f98437c528504603, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rheostat 3_lambert3_Normal
+    second: {fileID: 2800000, guid: 42f88e558bbdbbd46a1f928a4758ed58, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rheostat 3_lambert3_Roughness
+    second: {fileID: 2800000, guid: 490b8c9eb7fcc4f48a4b8fa15cebb3a8, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 5
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.049999997
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15c16d4c9e6a52544902df8577bd4ec7, type: 3}
+  m_Name: 05_DRW
+  m_EditorClassIdentifier: 
+  questionText: "The pitch of the screw gauge is defined as \u2014"
+  referenceImage: {fileID: 0}
+  options:
+  - the distance moved by the spindle in 10 revolutions
+  - the distance moved by the spindle in one revolution
+  - the distance moved by the spindle in 1/10 revolutions
+  - None of the above
+  correctOptionIndex: 1

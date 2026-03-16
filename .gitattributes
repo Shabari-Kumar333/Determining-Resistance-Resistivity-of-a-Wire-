@@ -81,7 +81,6 @@
 *.tga lfs-file
 *.tiff lfs-file
 *.webp lfs-file
-*.unity lfs-file
 
 # Audio formats
 *.aif lfs-file

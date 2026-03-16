@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15c16d4c9e6a52544902df8577bd4ec7, type: 3}
+  m_Name: 07_DRW
+  m_EditorClassIdentifier: 
+  questionText: 7. Bridge wire should be of the uniform area of cross-section because
+    we assume that resistance is proportional to the length of the wire while deriving
+    the formula, which will be true only when the wire is of the uniform cross-sectional
+    area throughout.
+  referenceImage: {fileID: 0}
+  options:
+  - Vector
+  - Scalar
+  - Tensor
+  - None
+  correctOptionIndex: 2
